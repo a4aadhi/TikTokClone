@@ -1,8 +1,5 @@
-# React + Vite
+TikTok UI clone made while learning React JS course on CodeDamn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+link to the course: https://codedamn.com/learn/reactjs
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+link to my certification: https://codedamn.com/certificate/verify/c0c4169fe4bd442798e1cc8e5ae5243fbe14e54d
